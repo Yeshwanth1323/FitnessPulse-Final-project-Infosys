@@ -46,7 +46,7 @@ app.add_middleware(
 
 # *** CONFIGURE GEMINI HERE ***
 # Paste your key from aistudio.google.com below
-GEMINI_API_KEY = "AIzaSyDkZP5Bjr8N9VmlxJIz7apt78XQWMZOLG4"
+GEMINI_API_KEY = "gemini api key"
 
 client = None
 try:
